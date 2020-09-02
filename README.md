@@ -31,3 +31,4 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - Data Classes
     - Objects
     - Enum Classes
+    - Alias classes
