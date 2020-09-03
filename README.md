@@ -32,3 +32,10 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - Objects
     - Enum Classes
     - Alias classes
+
+
+## TODO:
+
+- Companion
+- Generics
+- Delegation
