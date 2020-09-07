@@ -32,6 +32,11 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - Objects
     - Enum Classes
     - Alias classes
+8. Functions and Lambdas
+    - Functions
+    - Functions with variable no.of arguments
+    - Lambdas
+    - Higher order functions
 
 
 ## TODO:
