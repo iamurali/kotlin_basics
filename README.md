@@ -37,6 +37,14 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - Functions with variable no.of arguments
     - Lambdas
     - Higher order functions
+9. Collections
+    - Lists/Set/Maps
+    - List operations
+    - Filters
+    - Mappings
+    - Iterators
+    - Ranges
+    - Sequence
 
 
 ## TODO:
